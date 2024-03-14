@@ -1,4 +1,4 @@
-# Slider Automátivo
+# Slider Automático com JavaScript
 Desenvolvido como prática de desenvolvimento para fixação de aprendizagem.
 
 ## Técnologias utilizadas
