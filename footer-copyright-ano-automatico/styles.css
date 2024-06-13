@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+/* ##### FOOTER ##### */
+/* Estilos para o rodapé */
+footer {
+    background-color: #000;
+    font-weight: bold;
+    text-align: center;
+    padding: 3em;
+}
+
+/* Estilos para os textos no rodapé */
+footer p {
+    margin-top: .8em;
+    color: #FFF;
+    font-weight: 400;
+}
+
